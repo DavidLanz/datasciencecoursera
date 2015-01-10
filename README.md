@@ -1,5 +1,5 @@
-## Data Science Specialization 
+## datasciencecoursera
 
-* Uses R 
-* Nine courses 
-* Goes from raw data to data products
+* 1. Set up a Github account (you may use your own name or a pseudonym).
+* 2. Create a repo called datasciencecoursera
+* 3. Submit the link to your Github account
